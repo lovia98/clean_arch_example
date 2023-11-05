@@ -2,7 +2,6 @@ package com.example.clean_architecture.cleanarchi.bunckpal.account.app.service;
 
 import com.example.clean_architecture.cleanarchi.bunckpal.account.app.port.in.GetAccountBalanceQuery;
 import com.example.clean_architecture.cleanarchi.bunckpal.account.app.port.out.LoadAccountPort;
-import com.example.clean_architecture.cleanarchi.bunckpal.account.domain.AccountId;
 import com.example.clean_architecture.cleanarchi.bunckpal.account.domain.Money;
 import lombok.RequiredArgsConstructor;
 
